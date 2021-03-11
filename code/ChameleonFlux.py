@@ -89,12 +89,6 @@ res_sgm = np.vectorize(res_sgm)
 # Plasma frequency squared at the tachocline in keV^2
 omPl2 = pi4*alpha*ne*hbarc**3/me
 
-# Plasma frequency squared at Sun's core in keV^2
-omPlc2 = pi4*alpha*rhoc/me**2
-
-print(omPlc2)
-exit()
-
 # chameleon mass squared in keV^2
 # Eq.3-4 in 1110.2583
 def mphi2(ge, gc, n):
