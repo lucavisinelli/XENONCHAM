@@ -12,10 +12,10 @@ The script for generating plots from the results is in [`code/ChameleonFlux.py`]
 ### Citation
 
 Please cite the associated paper:
-> S. Vagnozzi, L. Visinelli,  P. Brax, A.-C. Davis, & J. Sakstein (2021), "Did XENON1T detect dark energy?".
+> S. Vagnozzi, L. Visinelli,  P. Brax, A.-C. Davis, & J. Sakstein (2021), "Direct detection of dark energy: the XENON1T excess and future prospects".
 
 ### Authors & Contact
 
 Written and maintained by Luca Visinelli and Sunny Vagnozzi.
 
-This repository contains code which is being actively used for research, so in places it may not be 100% clear. If you have any questions whatsoever, or if the code behaves in an unexpected way, please do not hesitate to contact the authors (e.g. at luca.visinelli@gmail.com).
+This repository contains code which is being actively used for research, so in places it may not be 100% clear. If you have any questions whatsoever, or if the code behaves in an unexpected way, please do not hesitate to contact the authors (luca_DOT_visinelli_AT_gmail_DOT_com or sunny_DOT_vagnozzi_AT_ast_DOT_cam_DOT_ac_DOT_uk).
