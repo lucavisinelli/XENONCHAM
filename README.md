@@ -18,4 +18,4 @@ Please cite the associated paper:
 
 Written and maintained by Luca Visinelli and Sunny Vagnozzi.
 
-This repository contains code which is being actively used for research, so in places it may not be 100% clear. If you have any questions whatsoever, or if the code behaves in an unexpected way, please do not hesitate to contact the authors (luca_DOT_visinelli_AT_gmail_DOT_com or sunny_DOT_vagnozzi_AT_ast_DOT_cam_DOT_ac_DOT_uk).
+This repository contains code which is being actively used for research, so in places it may not be 100% clear. If you have any questions whatsoever, or if the code behaves in an unexpected way, please do not hesitate to contact the authors (luca.visinelli@gmail.com and sunny.vagnozzi@ast.cam.ac.uk).
