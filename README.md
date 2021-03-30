@@ -11,7 +11,7 @@ The script for generating plots from the results is in [`code/ChameleonFlux.py`]
 
 ## MontePython
 
-The [montepython](https://github.com/lucavisinelli/XENONCHAM/tree/main/montepython) folder contains the MontePython likelihood we developed. More details are provided in the [MontePython README](https://github.com/lucavisinelli/XENONCHAM/blob/main/montepython/README.md).
+The [montepython](https://github.com/lucavisinelli/XENONCHAM/tree/main/montepython) folder contains the MontePython likelihood we developed. More details are provided in the [MontePython README](https://github.com/lucavisinelli/XENONCHAM/blob/main/montepython/README.md), but in general we assume that you know the basics of MontePython.
 
 ### References
 
