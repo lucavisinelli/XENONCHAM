@@ -1,8 +1,0 @@
-XENON1T.use_nuisance = ['ge','gg','gc','ncham','logMe','logMg',]
-XENON1T.data_directory = data.path['data']
-XENON1T.central_file = 'Central.dat'
-XENON1T.lower_file = 'Lower.dat'
-XENON1T.upper_file = 'Upper.dat'
-XENON1T.signal_file = 'Signal.dat'
-XENON1T.efficiency_file = 'Efficiency.dat'
-XENON1T.photoe_file = 'Photoe.dat'
