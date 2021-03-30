@@ -29,7 +29,7 @@ This repository contains code which is being actively used for research, so in p
 
 This research was supported by:
 
-   <a href="http://www.okc.albanova.se/"><img src="http://www.okc.albanova.se/polopoly_fs/1.327382.1491483655!/image/image.jpg_gen/derivatives/logotype_h130/image.jpg"
+   <a href="https://www.kicc.cam.ac.uk/"><img src="https://pbs.twimg.com/profile_images/1107636993033412608/XfxTseD6.jpg"
 height="100px"></a>
    <a href="https://www.su.se/"><img src="http://resources.mynewsdesk.com/image/upload/t_open_graph_image/ayjgabd4qxqbpj4pu4nl.jpg"
 height="100px"></a>
