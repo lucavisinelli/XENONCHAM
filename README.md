@@ -30,20 +30,20 @@ This repository contains code which is being actively used for research, so in p
 We acknowledge the support of:
 
    <a href="https://www.cam.ac.uk/"><img src="https://www.hoart.cam.ac.uk/images/university-of-cambridge-logo/image_preview"
-height="80px"></a>
+height="90px"></a>
    <a href="https://www.kicc.cam.ac.uk/"><img src="https://pbs.twimg.com/profile_images/1107636993033412608/XfxTseD6.jpg"
-height="80px"></a>
+height="90px"></a>
    <a href="https://www.ast.cam.ac.uk/"><img src="https://sciencesprings.files.wordpress.com/2020/10/u-cambridge-ioa-logo.png?w=200"
-height="80px"></a>
+height="90px"></a>
    <a href="https://kavlifoundation.org/"><img src="https://www.aps.org/meetings/march/images/logo-kavli.png"
-height="80px"></a>
+height="90px"></a>
    <a href="https://www.newtontrust.cam.ac.uk/"><img src="https://www.newtontrust.cam.ac.uk/sites/www.newtontrust.cam.ac.uk/files/styles/leading/public/images/INTmarksmall.png?itok=tNSe1-Sw"
-height="80px"></a>
+height="90px"></a>
    <a href="http://w3.lnf.infn.it/"><img src="https://www.trust-itservices.com/sites/default/files/images/logo/INFN2.png"
-height="80px"></a>
+height="90px"></a>
    <a href="https://erc.europa.eu/"><img src="https://erc.europa.eu/sites/default/files/LOGO_ERC.jpg"
-height="80px"></a>
+height="90px"></a>
    <a href="https://web.infn.it/fellini/"><img src="https://scholarship-positions.com/wp-content/uploads/2018/06/FELLINI-Fellowship.png"
-height="80px"></a>
+height="90px"></a>
    <a href="https://www.nwo.nl/en"><img src="https://images.squarespace-cdn.com/content/v1/592d67b65016e1bf41b13f96/1496395663632-7ZKH4T7MPTX6EPV1YH92/ke17ZwdGBToddI8pDm48kPALBGyU-J1y7KdYWzUZRhxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIsV_1YvFREPWlQ7fWmbarGd3mXHtHh4g9cxHFgfMv3ig/nwo-logo.png?format=500w"
-height="80px"></a>
+height="90px"></a>
