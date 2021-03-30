@@ -13,9 +13,9 @@ The script for generating plots from the results is in [`code/ChameleonFlux.py`]
 
 The [montepython](https://github.com/lucavisinelli/XENONCHAM/tree/main/montepython) folder contains the MontePython likelihood we developed. More details are provided in the [MontePython README](https://github.com/lucavisinelli/XENONCHAM/blob/main/montepython/README.md).
 
-### Citation
+### References
 
-Please cite the associated paper:
+If you use this code, please cite the associated paper:
 > S. Vagnozzi, L. Visinelli,  P. Brax, A.-C. Davis, & J. Sakstein (2021), "Direct detection of dark energy: the XENON1T excess and future prospects".
 
 ### Authors & Contact
