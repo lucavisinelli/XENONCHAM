@@ -4,7 +4,7 @@
 
 The key parts of the computation are:
 * Calculation of the flux of chameleons per unit energy due to Primakoff effect at the tachocline
-* Calculation of the cross section for the absorption of chameleons.
+* Calculation of the cross section for the absorption of chameleons
 * Monte Carlo analysis (see the [montepython](https://github.com/lucavisinelli/XENONCHAM/tree/main/montepython) folder)
 
 The script for generating plots from the results is in [`code/ChameleonFlux.py`]. The first thing to do is to edit [data_path = "../data/"] so that the directory variables point to the right place.
