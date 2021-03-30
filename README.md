@@ -27,7 +27,7 @@ This repository contains code which is being actively used for research, so in p
 
 ************************************************************************************************
 
-This research was supported by:
+We acknowledge the support of:
 
    <a href="https://www.kicc.cam.ac.uk/"><img src="https://pbs.twimg.com/profile_images/1107636993033412608/XfxTseD6.jpg"
 height="100px"></a>
