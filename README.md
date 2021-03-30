@@ -23,3 +23,17 @@ If you use this code, please cite the associated paper:
 Written and maintained by Luca Visinelli and Sunny Vagnozzi.
 
 This repository contains code which is being actively used for research, so in places it may not be 100% clear. If you have any questions whatsoever, or if the code behaves in an unexpected way, please do not hesitate to contact the authors (luca.visinelli@gmail.com and sunny.vagnozzi@ast.cam.ac.uk).
+
+
+************************************************************************************************
+
+This research was supported by:
+
+   <a href="http://www.okc.albanova.se/"><img src="http://www.okc.albanova.se/polopoly_fs/1.327382.1491483655!/image/image.jpg_gen/derivatives/logotype_h130/image.jpg"
+height="100px"></a>
+   <a href="https://www.su.se/"><img src="http://resources.mynewsdesk.com/image/upload/t_open_graph_image/ayjgabd4qxqbpj4pu4nl.jpg"
+height="100px"></a>
+      <a href="https://www.nordita.org/"><img src="https://yt3.ggpht.com/a-/AJLlDp3bQ-UG2qVRBjqfsEbsUaDs_fd8yBPkMnPCXg=s900-mo-c-c0xffffffff-rj-k-no"
+height="100px"></a>
+   <a href="http://www.ceico.cz/"><img src="https://academicpositions.eu/uploads/46e/083/46e083d07d2516e6b22c300bfe4731ac.jpeg" height="100px"></a>
+   <a href="https://www.fzu.cz/"><img src="https://www.fzu.cz/sites/default/files/logo-FZU-velke_1000x600px.jpg" height="100px"></a>
