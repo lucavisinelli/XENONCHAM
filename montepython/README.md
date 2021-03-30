@@ -4,8 +4,7 @@ This repository contains the MontePython likelihood used in the paper to analyze
 
 Once you have MontePython3.3 up and running, simply copy the content of the [montepython/likelihoods/XENON1T](https://github.com/lucavisinelli/XENONCHAM/tree/main/montepython/montepython/likelihoods/XENON1T) folder in your Path_to_your_montepython/montepython/likelihoods/ folder, and similarly for the [data](https://github.com/lucavisinelli/XENONCHAM/tree/main/montepython/data) folder, whose contents you should copy in your Path_to_your_montepython/data folder.
 
-Then, assuming you've done everything correctly, you're all set up for running your MCMC chains! For this we have supplied the example param file [XENON1T.param](https://github.com/lucavisinelli/XENONCHAM/blob/main/montepython/XENON1T.param). The 6 parameters have the following meanings:
-
+Then, assuming you've done everything correctly, you're all set up for running your MCMC chains! For this we have supplied the example param file [XENON1T.param](https://github.com/lucavisinelli/XENONCHAM/blob/main/montepython/XENON1T.param). The 6 parameters have the following meanings: <br />
 ge -> log10(beta_e), with beta_e the coupling to electrons <br />
 gg -> log10(beta_gamma), with beta_gamma the coupling to photons <br />
 logMe -> log10(M_e/keV), with M_e the electron disformal scale <br />
