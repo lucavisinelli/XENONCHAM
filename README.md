@@ -22,7 +22,7 @@ If you use this code, please cite the associated paper:
 
 Written and maintained by Luca Visinelli and Sunny Vagnozzi.
 
-This repository contains code which is being actively used for research, so in places it may not be 100% clear. If you have any questions whatsoever, or if the code behaves in an unexpected way, please do not hesitate to contact the authors (luca.visinelli@gmail.com and sunny.vagnozzi@ast.cam.ac.uk).
+This repository contains code which is being actively used for research, so in places it may not be 100% clear. If you have any questions whatsoever, or if the code behaves in an unexpected way, please do not hesitate to contact the authors at [luca.visinelli@gmail.com](mailto:luca.visinelli@gmail.com) [sunny.vagnozzi@ast.cam.ac.uk](mailto:sunny.vagnozzi@ast.cam.ac.uk) (unless you're a robot, of course).
 
 
 ************************************************************************************************
