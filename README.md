@@ -3,7 +3,7 @@
 *Code and results for the production of chameleons in the Sun, as well as the detection rate of chameleons at XENON1T.*
 
 The key parts of the computation are:
-* Calculation of the flux of chameleons per unit energy due to Primakoff effect at the tachocline;
+* Calculation of the flux of chameleons per unit energy due to Primakoff effect at the tachocline
 * Calculation of the cross section for the absorption of chameleons.
 * Monte Carlo analysis (see the [montepython](https://github.com/lucavisinelli/XENONCHAM/tree/main/montepython) folder)
 
