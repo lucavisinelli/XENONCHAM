@@ -16,7 +16,27 @@ The [montepython](https://github.com/lucavisinelli/XENONCHAM/tree/main/montepyth
 ### References
 
 If you use this code, please cite the associated paper:
-> S. Vagnozzi, L. Visinelli,  P. Brax, A.-C. Davis, & J. Sakstein (2021), "Direct detection of dark energy: the XENON1T excess and future prospects". Preprint: https://arxiv.org/abs/2103.15834
+> S. Vagnozzi, L. Visinelli,  P. Brax, A.-C. Davis & J. Sakstein, "*Direct detection of dark energy: the XENON1T excess and future prospects*", [arXiv:2103.15834](https://arxiv.org/abs/2103.15834)
+
+### Bibtex entry
+
+     @article{Vagnozzi:2021quy,
+         author = "Vagnozzi, Sunny and Visinelli, Luca and Brax, Philippe and Davis, Anne-Christine and Sakstein, Jeremy",
+         title = "{Direct detection of dark energy: the XENON1T excess and future prospects}",
+         eprint = "2103.15834",
+         archivePrefix = "arXiv",
+         primaryClass = "hep-ph",
+         month = "3",
+         year = "2021"
+     }
+
+### Latex (EU) entry
+
+     %\cite{Vagnozzi:2021quy}
+     \bibitem{Vagnozzi:2021quy}
+     S.~Vagnozzi, L.~Visinelli, P.~Brax, A.~C.~Davis and J.~Sakstein,
+     %``Direct detection of dark energy: the XENON1T excess and future prospects,''
+     [arXiv:2103.15834 [hep-ph]].
 
 ### Authors & Contact
 
