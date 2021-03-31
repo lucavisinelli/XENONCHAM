@@ -12,6 +12,6 @@ logMg -> log10(M_gamma/keV), with M_gamma the photon disformal scale <br />
 gc -> log10(Lambda/keV), with Lambda the chameleon potential scale <br />
 ncham -> n, with n the chameleon potential power-law <br />
 
-As we explain in our paper, the expected event rate in the XENON1T detector is essentially only controlled by ge and logMe, or more precisely by the combination we call beta_eff in our paper.
+As we explain in our paper, the expected event rate in the XENON1T detector is essentially only controlled by gg and logMe, or more precisely by the combination we call beta_eff in our paper.
 
 If you use this code, please cite our paper as explained in the [Main README](https://github.com/lucavisinelli/XENONCHAM/blob/main/README.md).
