@@ -9,6 +9,7 @@ cs    = 2.99792458e10   # speed of light     [cm/s]
 hbarc = hbar*cs         #                    [keV*cm]
 me    = 511.            # Electron mass      [keV]
 RSun  = 6.9634e10       # Solar radius       [cm]
+Rt   = 0.7*RSun         # Tachocline radius  [cm]
 dSun  = 1.5e13          # Earth-Sun distance [cm]
 mPl   = 1.221e25        # Planck mass        [keV]
 alpha = 1./137.036      # Fine-structure constant
@@ -145,7 +146,7 @@ def Pcham(om, ge, gg, gc, n, logMg):
 # Eq.48 in 1110.2583
 # Returns the differential flux at Earth in cm^-2 s^-1 keV^-1
 def dPhidomega_cham(om, ge, gg, gc, n, logMg):
-    return ng*pg(om)*Pcham(om, ge, gg, gc, n, logMg)*(RSun/dSun)**2/4.
+    return ng*pg(om)*Pcham(om, ge, gg, gc, n, logMg)*(Rt/dSun)**2/4.
 
 ##
 ## DETECTION
