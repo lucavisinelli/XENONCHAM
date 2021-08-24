@@ -49,7 +49,7 @@ This repository contains code which is being actively used for research, so in p
 
 We acknowledge the support of:
 
-   <a href="https://www.cam.ac.uk/"><img src="https://www.hoart.cam.ac.uk/images/university-of-cambridge-logo/image_preview"
+   <a href="https://www.cam.ac.uk/"><img src="https://media-exp1.licdn.com/dms/image/C510BAQH4Fc203kgKag/company-logo_200_200/0/1519856098280?e=2159024400&v=beta&t=QOLOHoZ7BWhMEga6OKU_GJPKMtZ9qYgiDOwByUww8w4"
 height="120px"></a>
    <a href="https://www.kicc.cam.ac.uk/"><img src="https://pbs.twimg.com/profile_images/1107636993033412608/XfxTseD6.jpg"
 height="120px"></a>
@@ -58,6 +58,9 @@ height="120px"></a>
    <a href="https://kavlifoundation.org/"><img src="https://www.aps.org/meetings/march/images/logo-kavli.png"
 height="120px"></a>
    <a href="https://www.newtontrust.cam.ac.uk/"><img src="https://www.newtontrust.cam.ac.uk/sites/www.newtontrust.cam.ac.uk/files/styles/leading/public/images/INTmarksmall.png?itok=tNSe1-Sw"
+height="120px"></a>
+   <a href="https://blanceflor.se/"><img 
+src="https://blanceflor.se/wp-content/uploads/elementor/thumbs/headerbild3-2-ov9zg388w53fr0bio1u3x7q174hfz50fvq8rzoncwy.png"
 height="120px"></a>
    <a href="http://w3.lnf.infn.it/"><img src="https://www.trust-itservices.com/sites/default/files/images/logo/INFN2.png"
 height="120px"></a>
