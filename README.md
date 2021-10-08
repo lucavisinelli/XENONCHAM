@@ -16,19 +16,22 @@ The [montepython](https://github.com/lucavisinelli/XENONCHAM/tree/main/montepyth
 ### References
 
 If you use this code, please cite the associated paper:
-> S. Vagnozzi, L. Visinelli,  P. Brax, A.-C. Davis & J. Sakstein, "*Direct detection of dark energy: the XENON1T excess and future prospects*", [arXiv:2103.15834](https://arxiv.org/abs/2103.15834)
+> S. Vagnozzi, L. Visinelli,  P. Brax, A.-C. Davis & J. Sakstein, "*Direct detection of dark energy: the XENON1T excess and future prospects*", [Phys.Rev.D 104 (2021) 6, 063023](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.063023) [arXiv:2103.15834](https://arxiv.org/abs/2103.15834)
 
 ### Bibtex entry
 
-     @article{Vagnozzi:2021quy,
-         author = "Vagnozzi, Sunny and Visinelli, Luca and Brax, Philippe and Davis, Anne-Christine and Sakstein, Jeremy",
-         title = "{Direct detection of dark energy: the XENON1T excess and future prospects}",
-         eprint = "2103.15834",
-         archivePrefix = "arXiv",
-         primaryClass = "hep-ph",
-         month = "3",
-         year = "2021"
-     }
+    @article{Vagnozzi:2021quy,
+    author = "Vagnozzi, Sunny and Visinelli, Luca and Brax, Philippe and Davis, Anne-Christine and Sakstein, Jeremy",
+    title = "{Direct detection of dark energy: The XENON1T excess and future prospects}",
+    eprint = "2103.15834",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    doi = "10.1103/PhysRevD.104.063023",
+    journal = "Phys. Rev. D",
+    volume = "104",
+    number = "6",
+    pages = "063023",
+    year = "2021"}
 
 ### Latex (EU) entry
 
