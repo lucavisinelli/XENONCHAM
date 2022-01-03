@@ -35,11 +35,9 @@ If you use this code, please cite the associated paper:
 
 ### Latex (EU) entry
 
-     %\cite{Vagnozzi:2021quy}
      \bibitem{Vagnozzi:2021quy}
      S.~Vagnozzi, L.~Visinelli, P.~Brax, A.~C.~Davis and J.~Sakstein,
-     %``Direct detection of dark energy: the XENON1T excess and future prospects,''
-     [arXiv:2103.15834 [hep-ph]].
+     Phys.\ Rev.\ D {\bf 104}, 063023 [hep-ph/2103.15834]~(2021).
 
 ### Authors & Contact
 
