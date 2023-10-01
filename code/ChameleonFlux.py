@@ -3,15 +3,21 @@ import matplotlib.pyplot as plt
 import scipy.optimize as op
 from scipy import interpolate
 
+## Numerical factors
+pi2   = 2.*np.pi
+pi4   = 4.*np.pi
+pi8   = 8.*np.pi
+sq8   = np.sqrt(pi8)
+
 ## Physical constants
 hbar  = 6.582119569e-19 # Planck's constant  [keV s]
 cs    = 2.99792458e10   # speed of light     [cm/s]
 hbarc = hbar*cs         #                    [keV*cm]
 me    = 511.            # Electron mass      [keV]
 RSun  = 6.9634e10       # Solar radius       [cm]
-Rt   = 0.7*RSun         # Tachocline radius  [cm]
+Rt    = 0.7*RSun        # Tachocline radius  [cm]
 dSun  = 1.5e13          # Earth-Sun distance [cm]
-mPl   = 1.221e25        # Planck mass        [keV]
+mPl   = 1.221e25/sq8    # Planck mass        [keV]
 alpha = 1./137.036      # Fine-structure constant
 
 ## Values at tachocline
@@ -47,11 +53,6 @@ year  = 3.15e7       # conversion from year to s
 NXe   = 4.58644e21   # Number of Xe atoms per g
 conv  = 10**6*year   # conversion from (g*s)^-1 to (year*ton)^-1
 tXE   = 1.042e6      # XENON1T target in g
-
-## Numerical factors
-pi2   = 2.*np.pi
-pi4   = 4.*np.pi
-pi8   = 8.*np.pi
 
 ## Define the location of the files containing the data from XENON1T
 ## NOTE: xd, xs are in keV!!!
@@ -203,7 +204,7 @@ gc_in = -3. # fix Lambda = 1meV
 logMe0 = 3.67
 logMg0 = 0.
 ge0    = 0.
-gg0    = 10
+gg0    = 9.5
 
 omp = np.geomspace(0.1, 10.0, 100)
 cnv = Rate_cham(omp, ge0, gg0, gc_in, n_in, logMe0, logMg0)
